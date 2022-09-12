@@ -1,4 +1,7 @@
-// example line 1
-// example line 2
+
+
+let number = 10
+let numbers = 12
+
 
 
